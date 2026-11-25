@@ -3,7 +3,7 @@
 // ==========================================
 
 // Address of the backend
-const API_URL = "http://127.0.0.1:8000/students";
+const API_URL = "https://python-crud-f59h.onrender.com";
 
 console.log(API_URL)
 
